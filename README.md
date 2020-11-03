@@ -11,7 +11,7 @@
 
 4. Menginisialisasi Folder LatihanVCS dengan perintah "git init"
 
-![4](https://user-images.githubusercontent.com/52364173/97957628-31c6f600-1dde-11eb-8557-f94168f71445.PNG)
+     ![4](https://user-images.githubusercontent.com/52364173/97957628-31c6f600-1dde-11eb-8557-f94168f71445.PNG)
 
 5. Menambahkan file baru bernama README.md
 
