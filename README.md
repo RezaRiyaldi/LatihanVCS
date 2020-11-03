@@ -36,6 +36,7 @@
 
 
 11. Mengambil repository dari server(clone)
+
 ![image](https://user-images.githubusercontent.com/52364173/97959271-96d01b00-1de1-11eb-9008-d687b34dd556.png)
 
 
