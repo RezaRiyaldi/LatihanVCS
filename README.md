@@ -31,6 +31,11 @@
 ![image](https://user-images.githubusercontent.com/52364173/97958393-ababaf00-1ddf-11eb-98f1-fdc2d5733ac8.png)
 
 10. Melihat hasil
+![image](https://user-images.githubusercontent.com/52364173/97959166-553f7000-1de1-11eb-90cd-7cf42f2718ca.png)
 
 
 11. Mengambil repository dari server(clone)
+![image](https://user-images.githubusercontent.com/52364173/97959271-96d01b00-1de1-11eb-9008-d687b34dd556.png)
+
+
+Sekian terima kasih
